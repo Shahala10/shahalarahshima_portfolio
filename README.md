@@ -97,8 +97,8 @@ A luxury, dark-themed personal portfolio showcasing high-end web development and
 
 **Shahala Rahshima A**
 
-  * GitHub: [@Shahala10](https://github.com/Shahala10)
-  * Portfolio: [shahalarahshimaportfolio.vercel.app](https://shahalarahshimaportfolio.vercel.app)
+  * **GitHub:** [@Shahala10](https://github.com/Shahala10)
+  * **Portfolio:** [Live Demo ✨](https://shahalarahshimaportfolio.shahalashazz10.workers.dev/)
 
 -----
 
